@@ -1,7 +1,7 @@
-# GenAI Proficiency Test - Busines Intelligence Analyst/Data Analyst
+# **GenAI Proficiency Test - Busines Intelligence Analyst/Data Analyst**
 
 
-## Completed Tasks
+## **Completed Tasks**
 
 ### List A - Mandatory Tasks (4/5)
 - **A02**: AppFlyer Marketing Attribution Data Pipeline and Analysis
@@ -24,18 +24,37 @@
   - Customer Analytics
   - Trading Analysis
 
-## Deliverables Structure
+## **Deliverables Structure**
 
 ├── reports/
+
 │   ├── report_A02.md
+
 │   ├── report_A02_prompt.md
+
 │   ├── report_A03.md
+
 │   ├── report_A03_prompt.md
+
 │   ├── report_A04.md
+
 │   ├── report_A04_prompt.md
+
 │   ├── report_A05.md
+
 │   ├── report_A05_prompt.md
+
 │   ├── report_B03.md
+
 │   ├── report_B03_prompt.md
+
 │   ├── report_B06.md
+
 │   └── report_B06_prompt.md
+
+## **Technologies & Tools**
+
+- GenAI Tools: Cursor, Claude, Grok
+- Analytics Focus: Data Pipeline Design, Business Intelligence, Cross-functional Documentation
+- Visualization: Mermaid Charts, Dashboard Design
+- Documentation: Docusaurus-ready Markdown
