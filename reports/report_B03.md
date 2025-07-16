@@ -1,5 +1,5 @@
 ---
-title: b03_market_making_analysis_report
+title: market_making_analysis_report
 ---
 
 # B03 - Market Making Analysis: Comprehensive Research Report
