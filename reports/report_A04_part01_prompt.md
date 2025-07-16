@@ -298,5 +298,171 @@ title: liquidity_analytics_and_market_making_performance
 
 ---
 
+## Problem-Solving Implementation
+
+---
+
+### Sequential Problem Resolution Strategy
+
+<details>
+<summary>Systematic Approach to Component-wise Problem Solving</summary>
+
+---
+
+- **After identifying problem components**: Proceed to investigate and solve each section sequentially
+- **Implementation Method**: Use appropriate role-based prompting for each component
+- **Problem Definition**: Clear identification of challenges faced
+- **Objective Setting**: Specific goals for each component
+- **Requirements Specification**: Detailed requirements for each task
+- **Component-specific Questions**: Structured questions for each problem component to ensure comprehensive solution
+
+---
+</details>
+
+### Data Analysis Expert Role and Methodology
+
+<details>
+<summary>Professional Data Analyst Approach for System Development</summary>
+
+---
+
+#### Expert Role Definition
+
+- **Professional Identity**: Senior Data Analyst specializing in financial market systems
+- **Core Competencies**: 
+  - Liquidity analytics framework design
+  - Market making performance evaluation systems
+  - Real-time data processing architectures
+  - Trading system optimization strategies
+- **Mission**: Define analytical methods and evaluation approaches for building comprehensive liquidity analytics system
+
+#### Analytical Methodology Framework
+
+- **Phase 1: Data Architecture Design**
+  - Define data collection requirements and real-time processing capabilities
+  - Establish data quality standards and validation procedures
+  - Design scalable infrastructure for high-frequency trading data
+- **Phase 2: Metrics Development**
+  - Create standardized liquidity measurement indices
+  - Develop market maker performance evaluation criteria
+  - Build comparative analysis frameworks
+- **Phase 3: Implementation Strategy**
+  - Define system integration protocols
+  - Establish monitoring and alerting mechanisms
+  - Create user interface and reporting systems
+
+#### Problem-Solving Approach
+
+- **Systematic Decomposition**: Break complex liquidity analysis into manageable components
+- **Iterative Development**: Build and test each component before integration
+- **Stakeholder Alignment**: Ensure solution meets trading team, risk management, and business requirements
+- **Performance Optimization**: Focus on real-time processing capabilities and system reliability
+
+---
+
+</details>
+
+### Component-wise Implementation Strategy
+
+<details>
+<summary>Detailed Implementation Steps and Role-based Prompting</summary>
+
+---
+
+#### Component 1: Data Infrastructure Analysis
+
+**Role-based Prompt:**
+```
+You are a Senior Data Engineer with expertise in high-frequency trading systems. Your task is to design a robust data infrastructure for liquidity analytics that can handle:
+- Real-time order book data processing (millions of updates/day)
+- Multi-exchange data integration
+- Low-latency computation requirements (`<1` second)
+- Historical data analysis capabilities
+
+Please analyze and provide:
+- Data ingestion architecture recommendations
+- Storage solutions for real-time and historical data
+- Processing pipeline design for liquidity metrics calculation
+- Scalability considerations for multi-market expansion
+```
+
+#### Component 2: Liquidity Metrics Framework
+
+**Role-based Prompt:**
+```
+You are a Quantitative Analyst specializing in market microstructure. Design a comprehensive liquidity measurement framework that includes:
+- Bid-ask spread analysis across different time horizons
+- Order book depth evaluation methods
+- Market impact assessment techniques
+- Liquidity recovery speed measurements
+
+Provide specific formulas, calculation methods, and implementation guidelines for:
+- Real-time spread monitoring
+- Depth-weighted average price calculations
+- Slippage measurement methodologies
+- Cross-market liquidity comparison standards
+```
+
+#### Component 3: Market Maker Performance Evaluation
+
+**Role-based Prompt:**
+```
+You are a Trading Performance Analyst with deep expertise in market making operations. Develop a comprehensive evaluation system for market maker performance including:
+- P&L attribution analysis
+- Inventory risk management metrics
+- Quote coverage and uptime tracking
+- Latency performance measurements
+
+Create detailed specifications for:
+- Performance benchmarking against industry standards
+- Risk-adjusted return calculations
+- Operational efficiency indicators
+- Competitive positioning analysis
+```
+
+#### Component 4: Real-time Monitoring System
+
+**Role-based Prompt:**
+```
+You are a Financial Technology Architect designing real-time monitoring systems. Create specifications for a comprehensive liquidity monitoring dashboard that provides:
+- Live order book visualization
+- Real-time spread and depth tracking
+- Alert systems for liquidity threshold breaches
+- Performance comparison tools
+
+Design requirements for:
+- User interface for different stakeholder groups (traders, risk managers, executives)
+- Customizable alerting mechanisms
+- Historical performance trending
+- Integration with existing trading systems
+```
+
+#### Component 5: Optimization and Strategy Development
+
+**Role-based Prompt:**
+```
+You are a Market Making Strategy Consultant with expertise in liquidity optimization. Analyze current market making approaches and provide:
+- Liquidity provision optimization strategies
+- Market quality improvement recommendations
+- Competitive positioning analysis
+- Risk management enhancement suggestions
+
+Deliver actionable insights on:
+- Spread optimization techniques
+- Inventory management strategies
+- Market timing considerations
+- Technology upgrade recommendations
+```
+
+---
+
+</details>
+
+### Implementation Execution Framework
+
+<details>
+<summary>Practical Steps for System Development and Deployment</summary>
+
+---
 
 
